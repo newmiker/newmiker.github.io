@@ -6,6 +6,13 @@
     <description>Statuspage</description>
     <pubDate>Sun, 15 Sep 2024 07:45:06 +0000</pubDate>
     <item>
+      <title>Test API update</title>
+      <description>v1.35.0 is release\nNew transaction type</description>
+      <pubDate>Sun, 15 Sep 2024 10:00:00 +0000</pubDate>
+      <link>https://docs.upvest.co/news#version-1350-release</link>
+      <guid>https://docs.upvest.co/news#version-1350-release</guid>
+    </item>
+    <item>
       <title>Scheduled maintenance for Swish</title>
       <description>
 &lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var=&apos;date&apos;&gt;8&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;01:00&lt;/var&gt; - &lt;var data-var=&apos;time&apos;&gt;04:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var=&apos;date&apos;&gt;28&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;11:22&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Swish has an upcoming scheduled maintenance.&lt;br /&gt;&lt;br /&gt;Note: Stripe retrieves payment method planned maintenance information from payment method partners and the information may not be complete, accurate, or up to date.&lt;/p&gt;      </description>
